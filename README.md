@@ -105,3 +105,8 @@ Released under the Universal Permissive License v1.0 as shown at <https://oss.or
 [2]: https://docs.github.com/en/actions/learn-github-actions/environment-variables
 [3]: https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.2.0/oci_cli_docs/
 [4]: https://jmespath.org/
+- name: Run an Oracle Cloud Infrastructure (OCI) CLI command
+  uses: oracle-actions/run-oci-cli-command@v1.3.2
+  https://support.huawei.com/enterprise/en/ensp-pid-9017386/software
+
+  
